@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6451c1d4-5d83-4357-94b2-16487877c969" name="Changes" comment="" />
+    <list default="true" id="6451c1d4-5d83-4357-94b2-16487877c969" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bai2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoQuangDai.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/DoQuangDai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeQuangHoa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/LeQuangHoa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TuanKiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/TuanKiet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giap.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/giap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/khuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tung.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/tung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vinh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1/vinh.svg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,7 +46,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/DELL/Documents/GitHub/Nhom-2",
+    "last_opened_file_path": "C:/Users/QUANG DAI/Documents/GitHub/Nhom-2",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +79,7 @@
       <workItem from="1664160188254" duration="124000" />
       <workItem from="1664160714196" duration="26000" />
       <workItem from="1664163354463" duration="307000" />
+      <workItem from="1664500082717" duration="417000" />
     </task>
     <servers />
   </component>
